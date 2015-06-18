@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YiSpring.iml" filepath="$PROJECT_DIR$/YiSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-01/spring-mvc-01.iml" filepath="$PROJECT_DIR$/spring-mvc-01/spring-mvc-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-02/spring-mvc-02.iml" filepath="$PROJECT_DIR$/spring-mvc-02/spring-mvc-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-03/spring-mvc-03.iml" filepath="$PROJECT_DIR$/spring-mvc-03/spring-mvc-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-04/spring-mvc-04.iml" filepath="$PROJECT_DIR$/spring-mvc-04/spring-mvc-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-05/spring-mvc-05.iml" filepath="$PROJECT_DIR$/spring-mvc-05/spring-mvc-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-06/spring-mvc-06.iml" filepath="$PROJECT_DIR$/spring-mvc-06/spring-mvc-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-07/spring-mvc-07.iml" filepath="$PROJECT_DIR$/spring-mvc-07/spring-mvc-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-08/spring-mvc-08.iml" filepath="$PROJECT_DIR$/spring-mvc-08/spring-mvc-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-09/spring-mvc-09.iml" filepath="$PROJECT_DIR$/spring-mvc-09/spring-mvc-09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-10/spring-mvc-10.iml" filepath="$PROJECT_DIR$/spring-mvc-10/spring-mvc-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-11/spring-mvc-11.iml" filepath="$PROJECT_DIR$/spring-mvc-11/spring-mvc-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-12/spring-mvc-12.iml" filepath="$PROJECT_DIR$/spring-mvc-12/spring-mvc-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-13/spring-mvc-13.iml" filepath="$PROJECT_DIR$/spring-mvc-13/spring-mvc-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-14/spring-mvc-14.iml" filepath="$PROJECT_DIR$/spring-mvc-14/spring-mvc-14.iml" />
+    </modules>
+  </component>
+</project>
+

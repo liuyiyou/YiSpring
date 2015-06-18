@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-mvc-01" />
+        <module name="spring-mvc-02" />
+        <module name="spring-mvc-03" />
+        <module name="spring-mvc-04" />
+        <module name="spring-mvc-05" />
+        <module name="spring-mvc-06" />
+        <module name="spring-mvc-07" />
+        <module name="spring-mvc-08" />
+        <module name="spring-mvc-09" />
+        <module name="spring-mvc-10" />
+        <module name="spring-mvc-11" />
+        <module name="spring-mvc-12" />
+        <module name="spring-mvc-13" />
+        <module name="spring-mvc-14" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
+

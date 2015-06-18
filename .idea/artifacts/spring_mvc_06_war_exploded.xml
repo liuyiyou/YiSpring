@@ -1,0 +1,35 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="spring-mvc-06:war exploded">
+    <output-path>$PROJECT_DIR$/spring-mvc-06/target/spring-mvc-06</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="spring-mvc-06/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="spring-mvc-06" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.5.10" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.5.10" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.5.10" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.16" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:3.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
+          <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.3" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.3" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.1.26" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.5.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.5.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.5.0" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
