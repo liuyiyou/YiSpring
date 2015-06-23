@@ -28,7 +28,6 @@
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.5.1" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.5.1" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.5.0" />
-          <element id="library" level="project" name="Maven: javax.validation:validation-api:1.0.0.GA" />
         </element>
       </element>
     </root>
