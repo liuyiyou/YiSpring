@@ -1,32 +1,17 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>YiSpring</groupId>
-  <artifactId>YiSpring</artifactId>
-  <packaging>pom</packaging>
-  <version>1.0-SNAPSHOT</version>
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>YiSpring</groupId>
+    <artifactId>YiSpring</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>spring-mvc-01</module>
-        <module>spring-mvc-02</module>
-        <module>spring-mvc-03</module>
-        <module>spring-mvc-04</module>
-        <module>spring-mvc-05</module>
-        <module>spring-mvc-06</module>
-        <module>spring-mvc-12</module>
-        <module>spring-mvc-07</module>
-        <module>spring-mvc-08</module>
-        <module>spring-mvc-09</module>
-        <module>spring-mvc-10</module>
-        <module>spring-mvc-11</module>
-        <module>spring-mvc-13</module>
-        <module>spring-mvc-14</module>
     </modules>
     <name>YiSpring Maven Webapp</name>
-  <url>http://maven.apache.org</url>
+    <url>http://maven.apache.org</url>
 
 
-
-  <build>
-    <finalName>YiSpring</finalName>
-  </build>
+    <build>
+        <finalName>YiSpring</finalName>
+    </build>
 </project>
